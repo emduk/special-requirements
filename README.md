@@ -18,10 +18,10 @@ Please raise requests for content or issues related to this controlled vocabular
 
 ## Example use
 
-The example below illustrates an `"emduk:specialRequirements"` property for an `Event` that supports all defined special requirements.
+The example below illustrates an `"emduk:specialRequirement"` property for an `Event` that supports all defined special requirements.
 
 ```json
-"emduk:specialRequirements": [
+"emduk:specialRequirement": [
   {
     "type": "Concept",
     "id": "https://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
