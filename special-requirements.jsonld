@@ -1,6 +1,6 @@
 {
   "context": "https://openactive.io/",
-  "id": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+  "id": "https://data.emduk.org/special-requirements/special-requirements.jsonld",
   "title": "EMD UK Special Requirements list",
   "description": "This document describes the EMD UK standard Special Requirements list.",
   "type": "ConceptScheme",
@@ -8,92 +8,92 @@
   "concept": [
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
+      "id": "https://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
       "prefLabel": "Adult Education"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#e5db28d6-93ef-463e-8626-f143f55f619c",
+      "id": "https://data.emduk.org/special-requirements#e5db28d6-93ef-463e-8626-f143f55f619c",
       "prefLabel": "Autism"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#56ec6bb7-2272-4c7b-970f-d1af7bf94269",
+      "id": "https://data.emduk.org/special-requirements#56ec6bb7-2272-4c7b-970f-d1af7bf94269",
       "prefLabel": "Back care"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#ba2291c0-252c-4616-a2a0-4863cb04cd25",
+      "id": "https://data.emduk.org/special-requirements#ba2291c0-252c-4616-a2a0-4863cb04cd25",
       "prefLabel": "Cancer support"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#15caac99-83b7-4963-8ec0-183050779a3d",
+      "id": "https://data.emduk.org/special-requirements#15caac99-83b7-4963-8ec0-183050779a3d",
       "prefLabel": "Cardiac Rehabilitation"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#2fa48dbf-0165-433c-9b15-604afb5248b3",
+      "id": "https://data.emduk.org/special-requirements#2fa48dbf-0165-433c-9b15-604afb5248b3",
       "prefLabel": "Chair based"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#20c1a0c6-cf75-4d6a-b7c3-3c083ec46ce0",
+      "id": "https://data.emduk.org/special-requirements#20c1a0c6-cf75-4d6a-b7c3-3c083ec46ce0",
       "prefLabel": "Dementia"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#c4bceff4-39a5-4e39-b16a-873ed79bc498",
+      "id": "https://data.emduk.org/special-requirements#c4bceff4-39a5-4e39-b16a-873ed79bc498",
       "prefLabel": "GP Referral"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#135ff50d-c3af-4db2-a491-b68070874d21",
+      "id": "https://data.emduk.org/special-requirements#135ff50d-c3af-4db2-a491-b68070874d21",
       "prefLabel": "Multiple Sclerosis"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#2eba5bcc-ac8b-4d1b-beeb-d62bb10e7a0d",
+      "id": "https://data.emduk.org/special-requirements#2eba5bcc-ac8b-4d1b-beeb-d62bb10e7a0d",
       "prefLabel": "Osteoporosis"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#f5c631fc-51d8-4252-89c4-e5a6e17bbfd9",
+      "id": "https://data.emduk.org/special-requirements#f5c631fc-51d8-4252-89c4-e5a6e17bbfd9",
       "prefLabel": "Parkinsons"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#68dd5e97-baad-497f-8da4-4c3bcb8ca1a4",
+      "id": "https://data.emduk.org/special-requirements#68dd5e97-baad-497f-8da4-4c3bcb8ca1a4",
       "prefLabel": "Post Breast Cancer"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#60bd020e-13a7-4e00-890e-89d6ad157083",
+      "id": "https://data.emduk.org/special-requirements#60bd020e-13a7-4e00-890e-89d6ad157083",
       "prefLabel": "Post Natal"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#88ce3d1a-b49c-4edc-a24e-8c3a29dbc4f3",
+      "id": "https://data.emduk.org/special-requirements#88ce3d1a-b49c-4edc-a24e-8c3a29dbc4f3",
       "prefLabel": "Pregnancy"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#dbb8a138-3ce9-4298-9e51-9f9011d8f6e4",
+      "id": "https://data.emduk.org/special-requirements#dbb8a138-3ce9-4298-9e51-9f9011d8f6e4",
       "prefLabel": "Residential Home / Day centre"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#54031d85-b037-477d-98c4-2739d0e6ef44",
+      "id": "https://data.emduk.org/special-requirements#54031d85-b037-477d-98c4-2739d0e6ef44",
       "prefLabel": "RNIB"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#b079c5db-44d9-4bf5-936d-8ac0b1ea31e7",
+      "id": "https://data.emduk.org/special-requirements#b079c5db-44d9-4bf5-936d-8ac0b1ea31e7",
       "prefLabel": "Stroke"
     },
     {
       "type": "Concept",
-      "id": "http://data.emduk.org/special-requirements#06b78897-6efa-431f-b76b-382de3a6b05f",
+      "id": "https://data.emduk.org/special-requirements#06b78897-6efa-431f-b76b-382de3a6b05f",
       "prefLabel": "Weight Management"
     }
   ]
